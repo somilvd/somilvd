@@ -99,12 +99,12 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanespana&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanespana&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=somilvd&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somilvd&layout=compact" />
 </p>
 
 ---
-
+<!--
 ## 📫 Contacto
 
 <p align="center">
@@ -116,7 +116,7 @@ Panel interactivo de visualización de datos.
 </p>
 
 ---
-
+-->
 <p align="center">
-⭐ Gracias por visitar mi perfil — github.com/juanespana
+⭐ Gracias por visitar mi perfil — github.com/somilvd
 </p>
