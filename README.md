@@ -1,151 +1,122 @@
-# 🧭 PASOS — Crear tu perfil de GitHub tipo portfolio (fondo blanco)
+<h1 align="center">👋 Juan España</h1>
+<h3 align="center">💻 Desarrollador de Software</h3>
 
-Este documento explica **paso a paso** cómo generar un perfil como el del mockup, usando el archivo README.md proporcionado.
+<p align="center">
+  <img src="perfil.jpg" width=300 />
+</p>
 
----
+<p align="center">
+🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
+</p>
 
-## ✅ Paso 1 — Crear (o usar) tu repositorio de perfil
-
-GitHub muestra un README especial si el repositorio tiene el mismo nombre que tu usuario.
-
-Ejemplo:
-
-Usuario: juanespana  
-Repositorio: juanespana
-
-### Cómo crearlo
-
-1. Ir a GitHub
-2. Click en **New repository**
-3. Nombre = tu usuario EXACTO
-4. Marcar ✅ Add a README file
-5. Crear repositorio
-
----
-
-## ✅ Paso 2 — Subir el README descargado
-
-1. Descarga el tu repositorio de perfil
-3. Descarga el archivo [README.md](../files/README.md)
-4. Commit changes
+<p align="center">
+  <a href="https://linkedin.com/in/TU_PERFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/juanespana">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ✏️ Paso 3 — Editar los campos obligatorios
+## 🧠 Sobre mí
 
-Busca y reemplaza lo siguiente:
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
 
-### 👤 Identidad
-
-- `Juan España` → Tu nombre real
-- `Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)` → Tu rol
-- Descripción personal → Tu texto
-
----
-
-### 🔗 Enlaces de contacto
-
-Editar:
-
-- LinkedIn → https://linkedin.com/in/TU_PERFIL
-- GitHub → https://github.com/TU_USUARIO
-- Email → mailto:TU_EMAIL
+- 🚀 Interés en desarrollo Full Stack  
+- 📱 Desarrollo Android con Java  
+- ⚙️ APIs REST con Java / Spring  
+- 🌍 Trabajo con metodologías ágiles  
+- 📚 Aprendizaje continuo  
 
 ---
 
-### 🖼️ Imagen "Sobre mí"
+## ⭐ Proyectos Destacados
 
-Cambiar la URL de la imagen:
+<table>
+<tr>
 
-```
-https://images.unsplash.com/...
-```
+<td width="33%" align="center">
 
-Puedes usar:
+### 📱 App Android  
+Java · Android Studio  
 
-- Una foto tuya
-- Una imagen de programación
-- Un banner propio
-- GitHub avatar
+Aplicación móvil desarrollada en Android para gestión de tareas.
 
----
+➡️ [Ver repositorio](https://github.com/juanespana/PROYECTO_ANDROID)
 
-### 💼 Experiencia
+</td>
 
-Editar:
+<td width="33%" align="center">
 
-- Empresa XYZ
-- Nombre de proyectos
-- Actividades realizadas
+### 🔗 API REST  
+Java · Spring · Maven  
 
----
+Backend REST para gestión de datos y servicios.
 
-### ⭐ Proyectos Destacados
+➡️ [Ver repositorio](https://github.com/juanespana/API_REST)
 
-Reemplazar por tus repositorios reales:
+</td>
 
-- gestor-tareas
-- api-ventas
-- dashboard-analitico
+<td width="33%" align="center">
 
-Formato recomendado:
+### 📊 Dashboard Web  
+React / Web  
 
-Nombre + tecnologías + breve descripción + enlace
+Panel interactivo de visualización de datos.
 
----
+➡️ [Ver repositorio](https://github.com/juanespana/DASHBOARD)
 
-### 📚 Lista de repositorios
+</td>
 
-Actualizar con tus proyectos principales.
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tecnologías
+## 🧰 Tecnologías y herramientas
 
-Eliminar las que no uses y añadir las tuyas.
-
-Puedes generar badges en:
-👉 https://shields.io
-
----
-
-### 📊 Estadísticas
-
-Cambiar `juanespana` por tu usuario si es distinto.
-
-```
-username=juanespana
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
+</p>
 
 ---
 
-## ⭐ Paso 4 — Fijar repositorios en tu perfil (opcional)
+## 🧩 Metodologías ágiles
 
-1. Ir a tu perfil
-2. Click en **Customize your pins**
-3. Seleccionar repositorios importantes
-
----
-
-## 🎯 Paso 5 — Revisar el resultado
-
-Tu perfil debe mostrar:
-
-✔️ Quién eres  
-✔️ Qué estudias o haces  
-✔️ Proyectos principales  
-✔️ Tecnologías  
-✔️ Actividad  
-✔️ Contacto  
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kanban-FF8C00?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Consejos para un perfil profesional
+## 📊 GitHub Stats
 
-- Mantén diseño limpio y claro
-- Destaca proyectos reales
-- Evita texto excesivo
-- Actualiza periódicamente
-- Añade nuevos proyectos importantes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanespana&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanespana&layout=compact" />
+</p>
 
 ---
+
+## 📫 Contacto
+
+<p align="center">
+
+💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
+📧 Email — TU_EMAIL  
+🌐 Portfolio — https://TU_WEB  
+
+</p>
+
+---
+
+<p align="center">
+⭐ Gracias por visitar mi perfil — github.com/juanespana
+</p>
