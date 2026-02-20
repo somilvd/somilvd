@@ -34,7 +34,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 - 📚 Aprendizaje continuo  
 
 ---
-
+<!--
 ## ⭐ Proyectos Destacados
 
 <table>
@@ -75,7 +75,7 @@ Panel interactivo de visualización de datos.
 
 </tr>
 </table>
-
+-->
 ---
 
 ## 🧰 Tecnologías y herramientas
