@@ -75,9 +75,9 @@ Panel interactivo de visualización de datos.
 
 </tr>
 </table>
--->
----
 
+---
+-->
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
