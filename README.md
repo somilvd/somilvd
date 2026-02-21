@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href="www.linkedin.com/in/somil-vasandani-dhanwani-00a8a73b2">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:somilvasd@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/juanespana">
+  <a href="https://github.com/somilvd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -25,11 +25,10 @@
 
 ## 🧠 Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con una gran pasión por la creación de software funcional, eficiente y con un diseño gráfico visualmente atractivo.
 
 - 🚀 Interés en desarrollo Full Stack  
 - 📱 Desarrollo Android con Java  
-- ⚙️ APIs REST con Java / Spring  
 - 🌍 Trabajo con metodologías ágiles  
 - 📚 Aprendizaje continuo  
 
@@ -109,8 +108,8 @@ Panel interactivo de visualización de datos.
 
 <p align="center">
 
-💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
-📧 Email — TU_EMAIL  
+💼 LinkedIn — www.linkedin.com/in/somil-vasandani-dhanwani-00a8a73b2  
+📧 Email — somilvasd@gmail.com  
 🌐 Portfolio — https://TU_WEB  
 
 </p>
