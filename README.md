@@ -2,7 +2,7 @@
 <h3 align="center">💻 Desarrollador de Software</h3>
 
 <p align="center">
-  <img src="perfil.jpg" width=300 />
+  <img src="perfil.png" width=300 />
 </p>
 
 <p align="center">
